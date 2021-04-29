@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Iranian Sans';
+  src: url(./Iranian+Sans.eot);
+  src: url(./Iranian+Sans.eot?#iefix) format('embedded-opentype'),
+       url(./Iranian+Sans.woff) format('woff');
+}
